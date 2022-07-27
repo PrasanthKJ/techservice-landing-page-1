@@ -10,7 +10,7 @@ Technology used     : **HTML5, CSS**
 
 ### Blog Demo:
 
-![Flashion Blog Homepage](#)
+![Flashion Blog Homepage](https://github.com/PrasanthKJ/techservice-landing-page-1/blob/main/thumbnail.png)
 
 ---
 ### P.S
